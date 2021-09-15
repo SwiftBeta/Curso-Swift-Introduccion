@@ -6,10 +6,10 @@
 ![GitHub Followers](https://img.shields.io/github/followers/swiftbeta?style=social)
 
 # 14 videos GRATIS - Curso de SWIFT Introducción en Español.
-## Selecciona el video que quieras y se abrirá en Youtube
 
 # ![https://www.swiftbeta.com](https://github.com/swiftbeta/Curso-Swift-Introduccion/raw/main/resources/all-videos.png)
-# 📱 CURSO de PROGRAMACIÓN Swift y Xcode (Introducción a Swift | Aprende Swift desde cero
+# 📱 CURSO de PROGRAMACIÓN Swift y Xcode (Introducción a Swift | Aprende Swift desde cero)
+## Selecciona el video que quieras y se abrirá en Youtube
 
 ---
 
