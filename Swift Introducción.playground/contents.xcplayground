@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='Xcode Playgrounds'/>
+        <page name='Constantes y Variables'/>
+        <page name='Opcionales'/>
+        <page name='Colecciones'/>
+        <page name='Control Flow'/>
+        <page name='Funciones'/>
+        <page name='Class y Struct'/>
+        <page name='Propiedades'/>
+        <page name='Métodos'/>
+        <page name='Closures'/>
+        <page name='Enums'/>
+        <page name='ARC'/>
+        <page name='Herencia'/>
+        <page name='Inicializadores'/>
+        <page name='Protocolos'/>
+        <page name='Genéricos'/>
+    </pages>
+</playground>
